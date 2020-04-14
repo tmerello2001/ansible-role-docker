@@ -8,7 +8,7 @@ docker_enabled: true
 #
 docker_pip_packages:
   - docker-compose
-  - docker-py
+  - docker
 
 docker_upgrade: false
 
